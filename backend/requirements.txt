@@ -1,0 +1,7 @@
+FastAPI
+uvicorn
+pydantic
+sqlite3
+python-dotenv
+pytest
+pytest-asyncio

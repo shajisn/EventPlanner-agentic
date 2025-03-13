@@ -160,7 +160,7 @@ For questions, bug reports, or feature requests, please contact:
 
 [Your Shaji S Nair]
 [Your shaji_s_nair@hotmail.com]
-[Link to Project Repository (GitHub, GitLab, etc.)]
+
 
 Happy Event Planning! 🚀
 
