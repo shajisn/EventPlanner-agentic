@@ -1,3 +1,5 @@
+### WORK IN PROGRESS
+
 # Agentic Event Planner - Effortless Event Orchestration with AI
 
 [![Project Status](https://img.shields.io/badge/Status-Development-yellow)](https://github.com/yourusername/agentic-event-planner)
